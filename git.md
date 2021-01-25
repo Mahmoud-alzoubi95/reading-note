@@ -14,8 +14,11 @@ it's depend on Local Operations because most necessary information can be found 
 2- Index: The area used for staging
 3- Head: Points to the most recent commit
 
+![Workflow](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
 
 #The Life Cycle of File Status
 * After you edit a file, Git flags it as modified because of changes made after the previous commit.
 * You stage the modified file.
 * Then, you commit staged changes.
+
+![Life Cycle](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
