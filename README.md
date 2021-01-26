@@ -5,7 +5,9 @@
 
 
 
-   * [markdown](https://mahmoud-alzoubi95.github.io/reading-note/Read2a)
-   * [Git](https://mahmoud-alzoubi95.github.io/reading-note/git3)
+
+  * [mindset](https://mahmoud-alzoubi95.github.io/reading-note/mindset)
+  * [markdown](https://mahmoud-alzoubi95.github.io/reading-note/Read2a)
+  * [Git](https://mahmoud-alzoubi95.github.io/reading-note/git3)
    
    
