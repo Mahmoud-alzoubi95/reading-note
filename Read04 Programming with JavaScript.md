@@ -15,13 +15,13 @@ content of a page.
 
 EXAMPLES OF JAVASCRIPT
 IN THE BROWSER :
-SLIDESHOWS : Slideshows can display a number of different images
+* SLIDESHOWS : Slideshows can display a number of different images
 
 
 (or other HTML content) within the same space
 on a given page.
 
-FORMS :
+* FORMS :
 Validating forms (checking whether they have been
 filled in correctly) is important when information is
 supplied by users. 
