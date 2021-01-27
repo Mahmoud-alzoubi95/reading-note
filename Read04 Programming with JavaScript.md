@@ -54,9 +54,9 @@ were its first time.
 
 
 
-1: DEFINE THE GOAL
-2: DESIGN THE SCRIPT
-3: CODE EACH STEP
+1. DEFINE THE GOAL
+2. DESIGN THE SCRIPT
+3. CODE EACH STEP
 
 Expression 
 An expression evaluates into (results in) a single value.
